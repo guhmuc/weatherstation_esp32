@@ -1,0 +1,5 @@
+#define MY_BLYNK_AUTH_TOKEN "0JNCxH-clplzyLuaZ354TwrPjZu6kAUg"
+#define MY_SSID "e3a"
+#define MY_WIFI_PASS "020268220268270203221205ab"
+
+#define BLYNK_DEVICE_NAME "WeatherStation"
